@@ -1,0 +1,1 @@
+window.onload=function(){var o=new Audio("./assets/export.mp3");o.volume=.15,o.play()};
